@@ -1,5 +1,3 @@
-## Towards Better Diagnosis Prediction Using Bidirectional Recurrent Neural Networks
-
 This repository contains source codes for implementing models and reproducing the results in the following [paper]():
 
     Towards Better Diagnosis Prediction Using Bidirectional Recurrent Neural Networks
