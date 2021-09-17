@@ -2,7 +2,7 @@ This repository contains source codes for implementing models and reproducing th
 
     Towards Better Diagnosis Prediction Using Bidirectional Recurrent Neural Networks
         Junghwan Lee, Cong Liu, Casey Ta, Chunhua Weng
-        Preprint
+        MedInfo 2021
 
 ### Installation
 The source codes were written in Python 3.7.1.
